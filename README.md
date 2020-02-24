@@ -7,7 +7,7 @@ Follow your journey, marking the items you've already picked up right on the map
 
 ## How to use?
 
-Navigate to [Metroid Guide site](https://santosfrancisco.github.io/metroid-guide), Choose your map and to check the items already collected, just click on it on the map. To remove a check from the map, simply click on it again. The checks will be saved in your browser's localStorage, so if you close or refresh, you will not lose your checks
+Navigate to [Metroid Guide site](https://metroidguide.netlify.com), Choose your map and to check the items already collected, just click on it on the map. To remove a check from the map, simply click on it again. The checks will be saved in your browser's localStorage, so if you close or refresh, you will not lose your checks
 
 ## Development
 
