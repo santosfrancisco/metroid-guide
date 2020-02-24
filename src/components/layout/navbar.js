@@ -7,13 +7,17 @@ const Navbar = styled(({ className }) => (
   <nav className={className}>
     <Link href="/">
       <a>
-        <img src="/samus-helmet.png" alt="" />
+        <img src="/samus-helmet.png" alt="logo" />
         <span>Metroid Guide</span>
       </a>
     </Link>
-    <Link href="https://github.com/santosfrancisco/metroid-guide">
-      <a><GoMarkGithub size={32} /></a>
-    </Link>
+      <a
+        href="https://github.com/santosfrancisco/metroid-guide"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <GoMarkGithub size={32} />
+      </a>
   </nav>
 ))`
   z-index: 10;
