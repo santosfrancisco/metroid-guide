@@ -1,1 +1,0 @@
-self.__BUILD_MANIFEST = (function(a,b){return {"/":[a,b],"/index":[a,b],"/metroid":[a,b],"/metroid-fusion":[a,b],"/super-metroid":[a,b],"/zero-mission":[a,b]}}("static\u002Fchunks\u002F1bfc9850.1497e79601e0ee6e6909.js","static\u002Fchunks\u002F1a93fbdaca2449156e2bc24585d79a118387b1af.90705f2f53fa8e37a14d.js"));self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
