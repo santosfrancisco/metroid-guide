@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { createGlobalStyle } from 'styled-components';\nexport default createGlobalStyle`\n  body {\n    font-family: 'Montserrat', sans-serif ;\n    background: url('/bg-pattern.png');\n    color: #fff;\n  }\n`;","map":null,"metadata":{},"sourceType":"module"}
